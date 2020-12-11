@@ -1,2 +1,2 @@
 # iPadInfoSys
-iPad Informatio System
+iPad Information System
